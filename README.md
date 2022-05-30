@@ -7,6 +7,7 @@ Versión 1.0.0
 LoginApp
 se crea login guiado de:
 
+VER: https://github.com/dianariverabarrero/Taller9_bingo
 https://www.udemy.com/angular-2-fernando-herrera/?couponCode=ANGULAR-10
 con angular, typescrip, css, html, less, javascritp, scss.
 
