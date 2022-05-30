@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dianariverabarrero/juegoBingo.git"
+    "url": "git+https://github.com/dianariverabarrero/Taller9BINGO.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dianariverabarrero/juegoBingo/issues"
+    "url": "https://github.com/dianariverabarrero/Taller9BINGO/issues"
   },
-  "homepage": "https://github.com/dianariverabarrero/juegoBingo#readme",
+  "homepage": "https://github.com/dianariverabarrero/Taller9BINGOgo#readme",
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
     "connect-flash": "^0.1.1",
